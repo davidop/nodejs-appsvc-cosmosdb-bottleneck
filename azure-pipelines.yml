@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  webAppName: 'GlobalAzure2023-WebApp'
+  webAppName: 'globalazure2023-webapp'
   serviceConnection: 'David Oliva - VSES - MPN 2023'
   azureSubscriptionId: 'a5eefe90-3967-4466-9c11-fab74f51019c'
   loadTestResource: 'GlobalAzure2023'
