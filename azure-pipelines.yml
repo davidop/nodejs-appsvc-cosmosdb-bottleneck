@@ -10,12 +10,12 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  webAppName: '<Name of your webapp>'
-  serviceConnection: '<Name of your webARM Service connection>'
-  azureSubscriptionId: '<Azure subscriptionId>'
-  loadTestResource: '<Name of your load test resource>'
-  loadTestResourceGroup: '<Name of your load test resource group>'
-  location: 'EAST US'
+  webAppName: 'GlobalAzure2023-WebApp'
+  serviceConnection: 'David Oliva - VSES - MPN 2023'
+  azureSubscriptionId: 'a5eefe90-3967-4466-9c11-fab74f51019c'
+  loadTestResource: 'GlobalAzure2023'
+  loadTestResourceGroup: 'GlobalAzure2023'
+  location: 'West Europe'
 
 
 stages:
